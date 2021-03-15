@@ -1,6 +1,6 @@
 # intelligent_autozoom
 
-A new Flutter project.
+A new Flutter project for the CC Extractor take home GSoC'21 challenge.
 
 ## Getting Started
 
