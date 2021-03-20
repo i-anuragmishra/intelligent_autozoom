@@ -4,7 +4,7 @@ A new Flutter project for the CC Extractor take home GSoC'21 challenge.
 To view its trial go to.
 
 ## Getting Started
-new project
+new project on the GsOc
 
 This project is a starting point for a Flutter application.
 
